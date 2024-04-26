@@ -2,8 +2,7 @@
   "build": {
     "content": [],
     "resource": [],
-    "feedback_system": "GitHub",
-    "feedback_github_repo": "kimberleybrown/test-multiple-comments",
-    "assets": []
+    "feedback_system": "Standard",
+        "assets": []
   }
 }
